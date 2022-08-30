@@ -2,7 +2,6 @@
 
 Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki birinci bölümün ödevini tamamladım.
 
-![First](C:/Users/user/Documents/GitHub/Web-Development/ödev1.png)
+![First](/%C3%B6dev1.PNG)
 
 
-<img src="Web-Development/ödev1.png" alt="">
