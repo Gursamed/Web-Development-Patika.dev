@@ -12,6 +12,11 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 ![Second](/images/%C3%B6dev2.PNG )
 
 
+## End of Chapter Study
+
+![End](/End%20of%20Chapter%20Study/%C3%B6dev3.PNG)
+
+
 
 
 
