@@ -14,7 +14,7 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 
 ## End of Chapter Study
 
-![End](/End%20of%20Chapter%20Study/%C3%B6dev3.PNG)
+![End](/images/%C3%B6dev3.PNG)
 
 
 
