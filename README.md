@@ -23,3 +23,13 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 
 ![Final](/images/final.PNG)
 
+
+
+# Css hw1
+
+![css1](/images/1.PNG)
+
+![css2](/images/2.PNG)
+
+![css3](/images/3.PNG)
+
