@@ -33,3 +33,8 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 
 ![css3](/images/3.PNG)
 
+
+
+# Css hw2
+
+![css2](/images/google.PNG)
