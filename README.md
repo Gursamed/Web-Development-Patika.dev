@@ -44,3 +44,9 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 # Css hw3
 
 ![css3](./images/googlee.PNG)
+
+# bootstrap hw1
+
+![btsp](./images/b1.PNG)
+![btsp](./images/b2.PNG)
+![btsp](./images/b3.PNG)
