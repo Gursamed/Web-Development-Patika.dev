@@ -50,3 +50,8 @@ Merhaba. [Patika](https://www.patika.dev/tr)'nın html eğitimindeki ikinci böl
 ![btsp](./images/b1.PNG)
 ![btsp](./images/b2.PNG)
 ![btsp](./images/b3.PNG)
+
+
+# instaclone
+
+![clne](./images/ii.PNG)
